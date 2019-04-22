@@ -1,6 +1,9 @@
-Js Hello World Demo
-===================
+JavaScript Browser "window.fetch" Get Demo
+==========================================
 
-Open `index.html` in your browser.
+使用`window.fetch`发送一个`GET`请求。
 
-You will see "Hello, JS!" on the page.
+```
+npm install
+npm run demo
+```
